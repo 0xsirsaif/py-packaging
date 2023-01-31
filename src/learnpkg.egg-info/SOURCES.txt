@@ -1,0 +1,12 @@
+MANIFEST.in
+pyproject.toml
+setup.py
+src/imppkg/__init__.py
+src/imppkg/data.json
+src/imppkg/harmonic_mean.c
+src/imppkg/harmonic_mean.pyx
+src/imppkg/main.py
+src/learnpkg.egg-info/PKG-INFO
+src/learnpkg.egg-info/SOURCES.txt
+src/learnpkg.egg-info/dependency_links.txt
+src/learnpkg.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools >= 40.8.0", "wheel",  "cython"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learnpkg"
+version = "0.1.0"
+authors = [
+    { name = "0xsirsaif", email = "sirsaif99@gmail.com" }
+]
+description = "Learn Python Packginh.."
+
+[project.urls]
+Documentation = "https://learnpkg.github.io/learnpkg"
+Source = "https://github.com/0xsirsaif/learnpkg"
